@@ -3,5 +3,5 @@
 这是我刚学了web前端开发，想找个东西练练手的项目，如果有什么好的建议和意见可以联系我！e-mail：justcaptain@163.com
 
 
-预览界面: http://htmlpreview.github.com/?https://github.com/justCaptain/zhihu/blob/master/index.html
+预览界面:https://justcaptain.github.io/zhihu/.
  
